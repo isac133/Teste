@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Introdução à Programação",
+    "CargaHoraria": 40
+  },
+  {
+    "Id": 2,
+    "Nome": "Desenvolvimento Web com ASP.NET",
+    "CargaHoraria": 60
+  },
+  {
+    "Id": 3,
+    "Nome": "Banco de Dados SQL",
+    "CargaHoraria": 30
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Aluno": {
+      "Id": 1,
+      "Nome": "João Silva",
+      "Email": "joao.silva@example.com"
+    },
+    "Curso": {
+      "Id": 2,
+      "Nome": "Desenvolvimento Web com ASP.NET",
+      "CargaHoraria": 60
+    }
+  },
+  {
+    "Aluno": {
+      "Id": 3,
+      "Nome": "Maria Oliveira",
+      "Email": "maria.oliveira@example.com"
+    },
+    "Curso": {
+      "Id": 4,
+      "Nome": "Introdução à Programação",
+      "CargaHoraria": 40
+    }
+  },
+  {
+    "Aluno": {
+      "Id": 5,
+      "Nome": "Ana Souza",
+      "Email": "anasouza123@gmail.com"
+    },
+]
