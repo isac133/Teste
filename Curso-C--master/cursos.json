@@ -1,17 +1,1 @@
-[
-  {
-    "Id": 1,
-    "Nome": "Introdução à Programação",
-    "CargaHoraria": 40
-  },
-  {
-    "Id": 2,
-    "Nome": "Desenvolvimento Web com ASP.NET",
-    "CargaHoraria": 60
-  },
-  {
-    "Id": 3,
-    "Nome": "Banco de Dados SQL",
-    "CargaHoraria": 30
-  }
-]
+[{"Id":2,"Nome":"Banco de Dados"},{"Id":3,"Nome":"Intelig\u00EAncia Artificial"},{"Id":4,"Nome":"Engenharia de Software"},{"Id":5,"Nome":"Ci\u00EAncia da Computa\u00E7\u00E3o"},{"Id":6,"Nome":"0"}]

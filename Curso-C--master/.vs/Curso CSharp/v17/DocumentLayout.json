@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|c:\\users\\aluno noite\\downloads\\curso-c--master\\curso-c--master\\matriculas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|solutionrelative:matriculas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|c:\\users\\aluno noite\\downloads\\curso-c--master\\curso-c--master\\alunos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|solutionrelative:alunos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|c:\\users\\aluno noite\\downloads\\curso-c--master\\curso-c--master\\cursos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|solutionrelative:cursos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|c:\\users\\aluno noite\\downloads\\curso-c--master\\curso-c--master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A73037-2A69-412E-B3B0-57439C9FA53B}|Curso CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "alunos.json",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\alunos.json",
-              "RelativeDocumentMoniker": "alunos.json",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\alunos.json",
-              "RelativeToolTip": "alunos.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-17T13:55:05.856Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "matriculas.json",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\matriculas.json",
-              "RelativeDocumentMoniker": "matriculas.json",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\matriculas.json",
-              "RelativeToolTip": "matriculas.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-17T13:26:00.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "cursos.json",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\cursos.json",
-              "RelativeDocumentMoniker": "cursos.json",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\cursos.json",
-              "RelativeToolTip": "cursos.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-17T13:25:53.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Curso-C--master\\Curso-C--master\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAIwEAAAAAAAAAAAjwJUEAAAAAAAA",
+              "ViewState": "AQIAAIUBAAAAAAAAAAAEwPEBAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:13:55.408Z"
+              "WhenOpened": "2024-09-19T14:12:56.814Z",
+              "EditorCaption": ""
             }
           ]
         }
